@@ -44,7 +44,7 @@ Answer: </br>
 
 Answer | Explanation
 --- | ---
-α=0.3 is an effective choice of learning rate. | We want gradient descent to quickly converge to the minimum, so the current setting of α seems to be good
+Rather than use the current value of α, it'd be more promising to try a larger value of α (say α=1.0). | We want gradient descent to quickly converge to the minimum, so the current setting of α seems to be good
 
 Question 3
 ----------
